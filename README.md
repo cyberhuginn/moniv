@@ -1,3 +1,5 @@
+![](https://raw.githubusercontent.com/cyberhuginn/moniv/refs/heads/main/media/moniv-banner.png)
+
 # Moniv
 
 Moniv is a lightweight, open-source error tracking and monitoring system for Python applications. It helps developers capture, monitor, and analyze errors in real-time, making debugging and maintenance faster and more efficient.
